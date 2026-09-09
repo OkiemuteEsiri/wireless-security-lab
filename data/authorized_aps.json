@@ -1,0 +1,5 @@
+[
+  {"ssid":"Corp-Secure","bssid":"aa:bb:cc:00:00:01","encryption":"WPA3-ENTERPRISE","pmf_required":true,"location":"HQ-1F"},
+  {"ssid":"Corp-Secure","bssid":"aa:bb:cc:00:00:02","encryption":"WPA3-ENTERPRISE","pmf_required":true,"location":"HQ-2F"},
+  {"ssid":"Guest","bssid":"aa:bb:cc:00:00:10","encryption":"WPA2","pmf_required":false,"location":"HQ-Lobby"}
+]
