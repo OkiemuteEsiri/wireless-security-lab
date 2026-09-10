@@ -1,0 +1,5 @@
+[
+  {"ssid":"Corp-Secure","bssid":"02:00:00:00:00:01","security":"WPA3-ENT","wps_enabled":false,"pmf_required":true,"management_vlan":"mgmt-10","guest_isolation":true,"admin_interface_exposed":false,"owner":"Network Security","firmware_age_days":75},
+  {"ssid":"Guest-WiFi","bssid":"02:00:00:00:00:02","security":"WPA2-PSK","wps_enabled":true,"pmf_required":false,"management_vlan":"user-20","guest_isolation":false,"admin_interface_exposed":true,"owner":"","firmware_age_days":430},
+  {"ssid":"Engineering-Lab","bssid":"02:00:00:00:00:03","security":"WPA2-ENT","wps_enabled":false,"pmf_required":false,"management_vlan":"lab-30","guest_isolation":true,"admin_interface_exposed":false,"owner":"Engineering IT","firmware_age_days":800}
+]
